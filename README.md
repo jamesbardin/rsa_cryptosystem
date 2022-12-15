@@ -1,9 +1,2 @@
-
-## ps3
-
-
-
-This repository contains the ps3 repository for Harvard's
-CS 51 class, Abstraction and Design in Computation.
-
-For more information, see [https://cs51.io](https://cs51.io). 
+In this assignment, you will be implementing bignums, along with several operations on bignums, including addition and multiplication. We provide code that will use your
+bignum implementation to implement the RSA cryptosystem. Once you complete your bignum implementation, you’ll be able to encrypt and decrypt messages using this public-key cryptosystem, and discover a hidden message that we’ve provided encoded in this way.
